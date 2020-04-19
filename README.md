@@ -23,9 +23,9 @@ transformer resources
 源码解析：
 
 
-[*The Annotated Transformer*]（https://nlp.seas.harvard.edu/2018/04/03/attention.html）
+[*The Annotated Transformer*](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
-[*The Annotated Transformer的中文注释版（1）*]（https://zhuanlan.zhihu.com/p/107889011）
+[*The Annotated Transformer的中文注释版（1）*](https://zhuanlan.zhihu.com/p/107889011)
 
 [*The Annotated Transformer的中文注释版（2）*](https://zhuanlan.zhihu.com/p/107889011)
 
