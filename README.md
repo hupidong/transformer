@@ -27,7 +27,7 @@ transformer resources
 
 [*The Annotated Transformer的中文注释版（1）*](https://zhuanlan.zhihu.com/p/107889011)
 
-[*The Annotated Transformer的中文注释版（2）*](https://zhuanlan.zhihu.com/p/107889011)
+[*The Annotated Transformer的中文注释版（2）*](https://zhuanlan.zhihu.com/p/107891957)
 
 [*The Annotated Transformer的中文注释版（3）*](https://zhuanlan.zhihu.com/p/109003287)
 
